@@ -1,3 +1,4 @@
+<img align="right" alt="codegif" width="400" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 # 💫 About Me:
 🤔 I'm Studing in C.V.R Global University || CSIT || Final-Year<br>🔭 I’m Currently Preparing For Placements & Cloud Certifications.<br>😎 I'm Working on Task Offloading  in IoT-Fog Interconnected Network.<br>🌱 I’m Skilled in Programming,App-Development & Web-Development<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: There are Two ways to write a error-free Programs , But only the third one works!!😉
 
